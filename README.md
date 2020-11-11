@@ -47,16 +47,16 @@ python app.py
 ```
 
 ## Sofware Used
-Plotly Dash
-Pandas
-Numpy
-IBM Watson Assistant
-TWC API
+- Plotly Dash
+- Pandas
+- Numpy
+- IBM Watson Assistant
+- TWC API
 
 ## Issues
-chatbot redirects: will like to do trigger within the same page 
-Predictions integrations
-Enhance UI
+* chatbot redirects: will like to do trigger within the same page 
+* Predictions integrations
+* Enhance UI
 
 
 ## Contributions
@@ -67,9 +67,9 @@ we welcome contributions to this work, to contribute simply do a Pull Request on
 This work will be openly published under Apache 2.0
 
 ## Authors
-Badisa Mosesane
-Yolanda Kanyama
-Zaheed Gaffor
+- Badisa Mosesane
+- Yolanda Kanyama
+- Zaheed Gaffor
 
 ## Built With
 
