@@ -6,7 +6,7 @@ This is a Water use Monitoring and Prediction Platform built using Dash - intera
 
 We leverage Machine learning technologies such as SVM, XGBoost to predict phenomena like temperature, rainfall, drought and water use quantities by end-users. We also use IBM Watson to build a chatbot to augment climate and water education efforts.
 
-![](data/waterLytics.png)
+![](data/dashboard.png)
 
 ## Getting Started
 
