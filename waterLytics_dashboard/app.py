@@ -97,7 +97,7 @@ app.layout = html.Div(
                         html.Div(
                             [
                                 html.H3(
-                                    "WaterLytics: A Water Usage Monitoring & Prediction Platform",
+                                    "WaterLytics: A Drought Monitoring & Prediction Platform",
                                     style={"margin-bottom": "0px"},
                                 ),
                                 html.P(
@@ -176,13 +176,13 @@ app.layout = html.Div(
                             className="dcc_control",
                             value=[],
                         ),
-                        html.P("Filter by Borehole type:", className="control_label"),
+                        html.P("Water-Use Restrictions: ", className="control_label"),
                         dcc.RadioItems(
                             id="well_type_selector",
                             options=[
                                 {"label": "All ", "value": "all"},
-                                {"label": "Productive only ", "value": "productive"},
-                                {"label": "Customize ", "value": "custom"},
+                                {"label": "Household restr ", "value": "productive"},
+                                {"label": "Agricultural ", "value": "custom"},
                             ],
                             value="productive",
                             labelStyle={"display": "inline-block"},
@@ -214,12 +214,12 @@ app.layout = html.Div(
                                     className="mini_container",
                                 ),
                                 html.Div(
-                                    [html.H6(id="oilText"), html.P("Avg. Rainfall")],
+                                    [html.H6(id="oilText"), html.P("Current Rainfall")],
                                     id="oil",
                                     className="mini_container",
                                 ),
                                 html.Div(
-                                    [html.H6(id="waterText"), html.P("Avg. Temperature")],
+                                    [html.H6(id="waterText"), html.P("Drought status (Category: severe)")],
                                     id="water",
                                     className="mini_container",
                                 ),
@@ -433,7 +433,7 @@ def update_well_text(well_statuses, well_types, year_slider):
     [Input("aggregate_data", "data")],
 )
 def update_text(data):
-    return data[0] + " cubic foot", data[1] + " Millimeter", data[2] + " Celsius"
+    return data[0] + " cubic foot", data[1] + " Millimeter", data[2] + " SPE-index"
 
 
 # Selectors -> main graph
@@ -708,7 +708,7 @@ def make_count_figure(well_statuses, well_types, year_slider):
         ),
     ]
 
-    layout_count["title"] = "Static Water Levels over Years"
+    layout_count["title"] = "Drought prevalence over Years"
     layout_count["dragmode"] = "select"
     layout_count["showlegend"] = False
     layout_count["autosize"] = True
