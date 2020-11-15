@@ -85,6 +85,10 @@ Besides the data already included on the Droughtly, a number of additional datas
   - Run-off
   - Regional water use
   - Ground-based observations or IoT sensor networks
+<<<<<<< HEAD
+=======
+  - Weather Company API for real-time data and forecasts, to improve prediction model
+>>>>>>> e697bc4b36417cbab3e8aadf7661a5ff6fe76c3c
 
 ### Predictions & analytics
 
