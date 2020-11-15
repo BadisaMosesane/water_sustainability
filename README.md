@@ -1,10 +1,21 @@
-# WaterLytics: A Dashboard for Visualizing, Monitoring and Predicting Water Use 
+# Droughtly: A Dashboard for Visualizing, Monitoring and Predicting Drought 
 
 Our response to the call for code University spot challenge: students vs climate change!
 
-This is a Water use Monitoring and Prediction Platform built using Dash - interactive Python framework developed by [Plotly](https://plot.ly/). Our solution seeks to augment efforts on water sustainability and helps farmers and communities be aware of their water use and become educated with everything climate change and sustainable water use.
+This is a drought monitoring and prediction platform built using Dash - interactive Python framework developed by [Plotly](https://plot.ly/). Our solution seeks to augment efforts to improve water sustainability by providing timely and accurate hydrological information to water managers and regulators. Besides displaying key hydrological information, the solution also leverages machine learning technologies such as Artificial Neural Networks to forecast trends in drought prevelance. Last but not least, we also use IBM Watson developed chatbot to facilitate the explanation of key features of the data, as well as important hydrological concepts related to drought, water and climate change. 
 
-We leverage Machine learning technologies such as SVM, XGBoost to predict phenomena like temperature, rainfall, drought and water use quantities by end-users. We also use IBM Watson to build a chatbot to augment climate and water education efforts.
+Climate change, over-abstraction and pollution are affecting the sustainable use of valuable water resources accross the world. None is more true during times of drought. The impacts of drought, brought about by climate change, can have severe consquences on a regions water supply, food supply and energy supply. Affecting the very livelihoods of people experiencing drought. Water resource managers, regulators and service providers are especially challenged during times of drought, when trying to ensure a sustainable supply of water. Their efforts are often curtailed by the lack of timely key hydrological information needed to better manage water resources. In addition, often specialist skills and experience is needed to navigate and utitilize the vast wealth of water related data generated through remote sensing, modelling and ground activities...... Providing critical water related information, in a user friendly and centralized manner will empower water managers, and other stakeholders to make more informed decisions to support sustainable water management. 
+
+To this end, our solution focuses on leveraging the large volumes of water related data, by transforming the data into useful information. Droughtly provides a view to regions water resources, both in terms of surface water and groundwater. The interactive nature of the dashboard allows the various datasets to be explored in conjuctively, which should facilitate a better understanding of the terrestial water system, and its impacts on the water supply infrastructure, such as dams. In addition, by incorporating pre-emptive forecasting of future trends in drought indicators, we move from mitigation to risk reduction. This powerful feature will allow authorities to better plan ahead, to ensure long-term sustainability. Finally, in an effort to educate stakeholders on the information displayed as well as simple concepts in climate change and drought, a chatbot is implemented in the chatbot. The chatbot allows simple questions to be asked regarding the information displayed as well as the relation to drought and climate change.         
+
+## Key features
+
+- Interactive data vizualization
+- Display of key information, such as averages, dam levels, and drought severity
+- Region selector, to facilate data discovery
+- Short to medium term forecasting of drought indicators
+- Use of internationally recogzined datasets 
+- Chatbot for user engagment on data and concepts
 
 ![](data/dashboard.png)
 
@@ -45,6 +56,9 @@ cd waterLytics
 python app.py
 
 ```
+## Tutorial
+
+
 
 ## Sofware Used
 - Plotly Dash
@@ -57,6 +71,10 @@ python app.py
 * chatbot redirects: will like to do trigger within the same page 
 * Predictions integrations
 * Enhance UI
+
+## Future developments
+
+Droughtly provides a 
 
 
 ## Contributions
