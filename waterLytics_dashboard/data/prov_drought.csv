@@ -1,0 +1,136 @@
+country,prov_name,iso_alpha3,year,total_precipitation,spei_index,drought_status
+South Africa,Eastern Cape,ZAF,2019,6.05,-0.15, near normal
+South Africa,Eastern Cape,ZAF,2019,7.69,-1.22,moderate
+South Africa,Eastern Cape,ZAF,2019,6.71,-2.13,severe
+South Africa,Eastern Cape,ZAF,2019,25.07,-1.87,moderate
+South Africa,Eastern Cape,ZAF,2019,21.49,-2.38,severe
+South Africa,Eastern Cape,ZAF,2019,37.17,-2.53,severe
+South Africa,Eastern Cape,ZAF,2019,69.85,-2.1,severe
+South Africa,Eastern Cape,ZAF,2020,116.81,-0.91,near normal
+South Africa,Eastern Cape,ZAF,2020,138.51,0.2,near normal
+South Africa,Eastern Cape,ZAF,2020,94.33,0.57,near normal
+South Africa,Eastern Cape,ZAF,2020,75.72,0.45,near normal
+South Africa,Eastern Cape,ZAF,2020,5.17,0.03,near normal
+South Africa,Eastern Cape,ZAF,2020,2.58,-0.4,near normal
+South Africa,Eastern Cape,ZAF,2020,3.95,-1.36,moderate
+South Africa,Eastern Cape,ZAF,2020,12.81,-0.81,near normal
+Botswana,Free State,BWA,2019,0.6,0.51,near normal
+Botswana,Free State,BWA,2019,0.92,-2.14,severe
+Botswana,Free State,BWA,2019,1.69,-3.03,Extreme
+Botswana,Free State,BWA,2019,3.18,-3.36,Extreme
+Botswana,Free State,BWA,2019,3.95,-2.82,Extreme
+Botswana,Free State,BWA,2019,42.17,-2.61,Extreme
+Botswana,Free State,BWA,2019,114.84,-1.79,Extreme
+Botswana,Free State,BWA,2020,89.46,-0.96,Extreme
+Botswana,Free State,BWA,2020,118.82,0.01,Extreme
+Botswana,Free State,BWA,2020,81.08,0,Extreme
+Botswana,Free State,BWA,2020,89.68,0.59,near normal
+Botswana,Free State,BWA,2020,0.25,0.28,near normal
+Botswana,Free State,BWA,2020,6.07,0.09,near normal
+Botswana,Free State,BWA,2020,1.45,-1.36,moderate
+Botswana,Free State,BWA,2020,2.56,-0.83,near normal
+South Africa,Gauteng,ZAF,2019,0.05,0.7,near normal
+South Africa,Gauteng,ZAF,2019,0.04,-2.61,severe
+South Africa,Gauteng,ZAF,2019,0.28,-4.48,extreme
+South Africa,Gauteng,ZAF,2019,6.97,-4.4,extreme
+South Africa,Gauteng,ZAF,2019,13.77,-2.72,severe
+South Africa,Gauteng,ZAF,2019,138.94,-2.02,severe
+South Africa,Gauteng,ZAF,2019,180.67,-0.98,near normal
+South Africa,Gauteng,ZAF,2020,117.37,0.11,near normal
+South Africa,Gauteng,ZAF,2020,75.72,0.33,near normal
+South Africa,Gauteng,ZAF,2020,67.43,-0.36,near normal
+South Africa,Gauteng,ZAF,2020,94.01,0.23,near normal
+South Africa,Gauteng,ZAF,2020,0.04,0.36,near normal
+South Africa,Gauteng,ZAF,2020,8.55,0.62,near normal
+South Africa,Gauteng,ZAF,2020,0.25,-0.98,near normal
+South Africa,Gauteng,ZAF,2020,1.63,-0.51,near normal
+Namibia,KwaZulu-Natal,NAM,2019,8.61,0.47,near normal
+Namibia,KwaZulu-Natal,NAM,2019,6.12,-3.06,severe
+Namibia,KwaZulu-Natal,NAM,2019,22.43,-3.62,severe
+Namibia,KwaZulu-Natal,NAM,2019,30.88,-2.63,severe
+Namibia,KwaZulu-Natal,NAM,2019,60.04,-3.16,extreme
+Namibia,KwaZulu-Natal,NAM,2019,147.11,-2.27,severe
+Namibia,KwaZulu-Natal,NAM,2019,127.18,-1.7,near normal
+Namibia,KwaZulu-Natal,NAM,2020,131.59,-1.27,near normal
+Namibia,KwaZulu-Natal,NAM,2020,159.35,-0.55,near normal
+Namibia,KwaZulu-Natal,NAM,2020,57.93,-0.7,near normal
+Namibia,KwaZulu-Natal,NAM,2020,114.64,0.3,near normal
+Namibia,KwaZulu-Natal,NAM,2020,8.08,-0.13,near normal
+Namibia,KwaZulu-Natal,NAM,2020,23.89,0.49,near normal
+Namibia,KwaZulu-Natal,NAM,2020,8.02,-0.91,near normal
+Namibia,KwaZulu-Natal,NAM,2020,19.41,-0.76,near normal
+Zambia,Limpopo,ZMB,2019,1.49,-1.01,near normal
+Zambia,Limpopo,ZMB,2019,0.41,-2.9,severe
+Zambia,Limpopo,ZMB,2019,1.63,-3.72,severe
+Zambia,Limpopo,ZMB,2019,4.59,-2.56,severe
+Zambia,Limpopo,ZMB,2019,13.81,-2.24,severe
+Zambia,Limpopo,ZMB,2019,70.25,-1.5,near normal
+Zambia,Limpopo,ZMB,2019,113.33,-1.44,near normal
+Zambia,Limpopo,ZMB,2020,106.68,-0.39,near normal
+Zambia,Limpopo,ZMB,2020,144.76,-0.07,near normal
+Zambia,Limpopo,ZMB,2020,19.67,-0.11,near normal
+Zambia,Limpopo,ZMB,2020,31.86,-0.12,near normal
+Zambia,Limpopo,ZMB,2020,1.15,-0.74,near normal
+Zambia,Limpopo,ZMB,2020,2.77,-0.26,near normal
+Zambia,Limpopo,ZMB,2020,2.42,-1.16,moderate
+Zambia,Limpopo,ZMB,2020,5.91,-0.69,near normal
+Zimbabwe,Mpumalanga,ZWE,2019,2.92,-0.42,near normal
+Zimbabwe,Mpumalanga,ZWE,2019,1.21,-2.88,severe
+Zimbabwe,Mpumalanga,ZWE,2019,5.6,-4.5,extreme
+Zimbabwe,Mpumalanga,ZWE,2019,18.77,-2.32,severe
+Zimbabwe,Mpumalanga,ZWE,2019,34.37,-2.41,severe
+Zimbabwe,Mpumalanga,ZWE,2019,113.92,-1.75,severe
+Zimbabwe,Mpumalanga,ZWE,2019,150.44,-1.19,severe
+Zimbabwe,Mpumalanga,ZWE,2020,158.1,-0.52,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,147.47,-0.22,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,59.44,-0.78,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,83.61,-0.33,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,1.5,-0.51,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,10.81,0.11,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,2.95,-0.86,near normal
+Zimbabwe,Mpumalanga,ZWE,2020,8.63,-0.52,near normal
+Zimbabwe,North West,ZWE,2019,0.12,0.4,near normal
+Zimbabwe,North West,ZWE,2019,0.04,-3.39,extreme
+Zimbabwe,North West,ZWE,2019,0.31,-4.99,extreme
+Zimbabwe,North West,ZWE,2019,2.27,-4.62,extreme
+Zimbabwe,North West,ZWE,2019,3.18,-3.01,extreme
+Zimbabwe,North West,ZWE,2019,67.24,-2.67,severe
+Zimbabwe,North West,ZWE,2019,142.12,-1.16,severe
+Zimbabwe,North West,ZWE,2020,83.04,-0.35,near normal
+Zimbabwe,North West,ZWE,2020,62.17,0.35,near normal
+Zimbabwe,North West,ZWE,2020,63.54,-0.04,near normal
+Zimbabwe,North West,ZWE,2020,68.23,0.23,near normal
+Zimbabwe,North West,ZWE,2020,0.02,-0.02,near normal
+Zimbabwe,North West,ZWE,2020,9.94,-0.2,near normal
+Zimbabwe,North West,ZWE,2020,0.1,-1.01,moderate
+Zimbabwe,North West,ZWE,2020,0.45,-0.21,near normal
+Zimbabwe,Northern Cape,ZWE,2019,2.6,-1.8,moderate
+Zimbabwe,Northern Cape,ZWE,2019,5.81,-2.8,moderate
+Zimbabwe,Northern Cape,ZWE,2019,0.55,-2.62,moderate
+South Africa,Northern Cape,ZAF,2019,2.95,-2.56,moderate
+South Africa,Northern Cape,ZAF,2019,2.32,-2.68,moderate
+South Africa,Northern Cape,ZAF,2019,3.18,-2.85,moderate
+South Africa,Northern Cape,ZAF,2019,21.64,-1.92,moderate
+South Africa,Northern Cape,ZAF,2020,25.18,-1.64,moderate
+South Africa,Northern Cape,ZAF,2020,50.12,-1.17,moderate
+South Africa,Northern Cape,ZAF,2020,28.56,-1.06,moderate
+South Africa,Northern Cape,ZAF,2020,21.03,-0.96,near normal
+South Africa,Northern Cape,ZAF,2020,1.06,-1.43,moderate
+South Africa,Northern Cape,ZAF,2020,5.5,-1.34,moderate
+South Africa,Northern Cape,ZAF,2020,8.13,-1.61,near normal
+South Africa,Northern Cape,ZAF,2020,3.84,-0.45,near normal
+South Africa,Western Cape,ZAF,2019,26.27,-1.3,moderate
+South Africa,Western Cape,ZAF,2019,37.25,-0.95,near normal
+South Africa,Western Cape,ZAF,2019,8.43,-1.27,near normal
+South Africa,Western Cape,ZAF,2019,24.5,-1.39,moderate
+South Africa,Western Cape,ZAF,2019,20.76,-1.62,moderate
+South Africa,Western Cape,ZAF,2019,12.97,-1.52,moderate
+South Africa,Western Cape,ZAF,2019,12.37,-1.12,moderate
+South Africa,Western Cape,ZAF,2020,50.2,-0.7,near normal
+South Africa,Western Cape,ZAF,2020,18.3,-0.91,near normal
+South Africa,Western Cape,ZAF,2020,16.12,-0.88,near normal
+South Africa,Western Cape,ZAF,2020,17.93,-1.7,moderate
+South Africa,Western Cape,ZAF,2020,17.85,-1.53,moderate
+South Africa,Western Cape,ZAF,2020,31.62,-1.03,moderate
+South Africa,Western Cape,ZAF,2020,41.47,-0.65,near normal
+South Africa,Western Cape,ZAF,2020,40.26,0.4,near normal
